@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum",
+      "author": "Akbar",
+      "id": 2
+    },
+    {
+      "title": "Dev opps",
+      "body": "lorem ipsum",
+      "author": "Ahmad",
+      "id": 3
+    },
+    {
+      "title": "wdwefef",
+      "body": "sdweferfer",
+      "author": "Ahmad",
+      "id": 4
+    }
+  ]
+}
